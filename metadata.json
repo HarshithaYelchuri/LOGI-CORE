@@ -1,0 +1,6 @@
+{
+  "name": "Last-Mile Delivery Tracker",
+  "description": "Enterprise last-mile delivery tracking platform with zone detection, dynamic rate cards, intelligent agent auto-assignment, live route metrics, failed attempt rescheduling, and real-time dispatch updates.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
